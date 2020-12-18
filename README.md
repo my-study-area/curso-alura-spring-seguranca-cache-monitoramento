@@ -15,6 +15,7 @@ Curso de Spring Boot API Rest: Segurança da API, Cache e Monitoramento.
 
 Durante o curso foi desenvolvida uma API REST com cache, autênticação usando JWT, monitoramento com Spring Boot Admin e Actuator e documentação com SpringFox Swagger.
 
+<image src="src/main/resources/static/img/spring-api-monitoramento.png" alt="Imagem de requisição GET usando Postman ao lado da imagem da aplicação do Spring Boot Admin">
 
 ## Tecnologias
 - Java 8
